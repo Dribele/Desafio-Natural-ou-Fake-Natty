@@ -20,25 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Inteligência Artificial no Fisiculturismo: Natural ou Fake Natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Foi criado um projeto com a utilização da I A abordando o assunto.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Copilot – Microsoft e o Gama.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o Copilot – Microsoft para explorar sobre o assunto e o Gama para elaboração do Ebook.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/Inteligencia-Artificial-no-Fisiculturismo-Natural-ou-Fake-Natty-uw6bxm3z4qlwxkr
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
-### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
